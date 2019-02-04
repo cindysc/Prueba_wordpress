@@ -5,7 +5,7 @@ Sitio Il fonti di modena
 **secciones**
 -   Header
 -   
-<a target="_blank" rel="noopener noreferrer" href="/cindysc/Prueba_wordpress/blob/master/images/cv-img.png"><img src="/cindysc/Prueba_wordpress/raw/master/images/maqueta.jpg" alt="" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/cindysc/Prueba_wordpress/blob/master/images/maqueta.jpg"><img src="/cindysc/Prueba_wordpress/raw/master/images/maqueta.jpg" alt="" style="max-width:100%;"></a>
 
 ## GtMetrix
 
