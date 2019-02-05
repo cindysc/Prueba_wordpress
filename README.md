@@ -3,6 +3,7 @@ Sitio **Il fonti di modena**
 
 ## Layout
 ![Sketch menú online](images/maqueta.jpg)
+![Sketch menú online](images/diseno.jpg)
 
 
 ## Worpress
@@ -13,7 +14,7 @@ Sitio **Il fonti di modena**
 ## GtMetrix
 
 **Análisis inicial**
-![Gtmetrix](images/gtmetrix_1.jpgg)
+![Gtmetrix](images/gtmetrix_1.jpg)
 
 
 **Análisis posterior a optimización**
