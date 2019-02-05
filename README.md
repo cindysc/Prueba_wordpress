@@ -1,14 +1,15 @@
 # Prueba_wordpress
-Sitio Il fonti di modena
+Sitio **Il fonti di modena**
 
 ## Layout
 **secciones**
-<a href="/cindysc/Prueba_wordpress/blob/master/cindysc/Prueba_wordpress/blob/master/images/maqueta.jpg"><img src="/cindysc/Prueba_wordpress/raw/master/images/maqueta.jpg" alt="Sketch menú online" style="max-width:100%;"></a>
+![Sketch menú online](images/maqueta.jpg)
+
 
 ## Worpress
-url: **http://186.64.118.50/~fev1csanhueza/**
-usuario: **cindy.sc**
-clave: **zTvHiXH$L5*AGC(@XB**
+- url: **http://186.64.118.50/~fev1csanhueza/**
+- usuario: **cindy.sc**
+- clave: **zTvHiXH$L5*AGC(@XB**
 
 ## GtMetrix
 
